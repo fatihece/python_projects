@@ -1,5 +1,6 @@
 """
-Create the dictionary characters that shows each character from the string sally and its frequency. Then, find the most frequent letter based on the dictionary. Assign this letter to the variable best_char
+Create the dictionary characters that shows each character from the string sally and its frequency. 
+Then, find the most frequent letter based on the dictionary. Assign this letter to the variable best_char
 """
 sally = "sally sells sea shells by the sea shore"
 characters = {}
