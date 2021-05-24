@@ -15,5 +15,4 @@ best_char = keys[0]
 for key in keys:
     if characters[key] > characters[best_char]:
         best_char = key
-
 print(best_char)
